@@ -1,0 +1,31 @@
+{
+  "name": "huge-downloader-backend",
+  "version": "0.0.1",
+  "description": "A nodejs express backend for the huge-downloader client for downloading large files in chunks and reassemiling the file after downloaded.",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "files": [
+    "src",
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinaird/huge-downloader-backend.git"
+  },
+  "keywords": [
+    "upload",
+    "file upload",
+    "huge file upload",
+    "big file upload",
+    "resumable upload",
+    "pausable upload",
+    "chunked upload",
+    "fault tolerent"
+  ],
+  "author": "Kevin Aird",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/kevinaird/huge-downloader-backend/issues"
+  },
+  "dependencies": {}
+}
